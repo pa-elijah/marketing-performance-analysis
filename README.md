@@ -38,7 +38,7 @@ The data for this analysis is fragmented across four different files, each repre
         * Is there any observable trend in performance over time for any of the channels?
 
 4.  **Visualization & Recommendations:**
-    * Create a summary dashboard or a set of clear visualizations (using Matplotlib, Seaborn, Plotly, etc.) that effectively communicates the performance of each channel.
+    * Create a summary dashboard or a set of clear visualizations (using Matplotlib, Seaborn, Plotly, etc.) that effectively communicate the performance of each channel.
     * Conclude your analysis in this README with a summary of your findings and provide a data-driven recommendation to the marketing team on how they should consider allocating their budget for the next quarter.
 
 ## Evaluation Criteria
@@ -47,3 +47,5 @@ The data for this analysis is fragmented across four different files, each repre
 * **Analytical Thinking:** Your ability to interpret the KPIs and extract meaningful, non-obvious insights from the data.
 * **Communication & Visualization:** The clarity of your charts and the persuasiveness of your final recommendations.
 
+## Disclaimer: Data and Evaluation Criteria
+Please be advised that the datasets utilized in this project are synthetically generated and intended for illustrative purposes only. Furthermore, they have been significantly reduced in terms of sample size and the number of features to streamline the exercise. They do not represent or correspond to any actual business data. The primary objective of this evaluation is to assess the problem-solving methodology and the strategic approach employed, not necessarily the best possible tailored solution for the data. 
